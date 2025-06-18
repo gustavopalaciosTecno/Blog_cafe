@@ -161,7 +161,7 @@ img{
 @media(min-width:768px){
     .boton{
         display: inline-block;
-        margin: 300px;
+        margin: 100px;
     }
 }
 
